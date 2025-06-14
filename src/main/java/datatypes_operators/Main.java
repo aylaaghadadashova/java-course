@@ -13,5 +13,14 @@ public class Main {
 
         System.out.printf("My data types:\nboolean: %b \nbyte: %d \nchar: %c \nshort: %d \nint: %d \nlong: %d \nfloat: %f \ndouble: %.12f", isTrue, myByte, myChar, myShort, myInt, myLong, myFloat, myDouble );
 
+        /*
+        //Some of the operators
+
+        int a = 7;
+        System.out.println(a++);
+        System.out.println( a);
+        System.out.println(++a+a+a++);
+        System.out.println(a);
+        */
     }
 }
